@@ -1,0 +1,10 @@
+C:\Users\Jasper\source\repos\06While\06While\bin\Debug\06While.exe.config
+C:\Users\Jasper\source\repos\06While\06While\bin\Debug\06While.exe
+C:\Users\Jasper\source\repos\06While\06While\bin\Debug\06While.pdb
+C:\Users\Jasper\source\repos\06While\06While\obj\Debug\06While.csprojAssemblyReference.cache
+C:\Users\Jasper\source\repos\06While\06While\obj\Debug\_06While.Form1.resources
+C:\Users\Jasper\source\repos\06While\06While\obj\Debug\_06While.Properties.Resources.resources
+C:\Users\Jasper\source\repos\06While\06While\obj\Debug\06While.csproj.GenerateResource.cache
+C:\Users\Jasper\source\repos\06While\06While\obj\Debug\06While.csproj.CoreCompileInputs.cache
+C:\Users\Jasper\source\repos\06While\06While\obj\Debug\06While.exe
+C:\Users\Jasper\source\repos\06While\06While\obj\Debug\06While.pdb
