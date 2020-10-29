@@ -1,0 +1,10 @@
+C:\Users\Jasper\source\repos\01forms\01forms\bin\Debug\01forms.exe.config
+C:\Users\Jasper\source\repos\01forms\01forms\bin\Debug\01forms.exe
+C:\Users\Jasper\source\repos\01forms\01forms\bin\Debug\01forms.pdb
+C:\Users\Jasper\source\repos\01forms\01forms\obj\Debug\01forms.csprojAssemblyReference.cache
+C:\Users\Jasper\source\repos\01forms\01forms\obj\Debug\_01forms.Form1.resources
+C:\Users\Jasper\source\repos\01forms\01forms\obj\Debug\_01forms.Properties.Resources.resources
+C:\Users\Jasper\source\repos\01forms\01forms\obj\Debug\01forms.csproj.GenerateResource.cache
+C:\Users\Jasper\source\repos\01forms\01forms\obj\Debug\01forms.csproj.CoreCompileInputs.cache
+C:\Users\Jasper\source\repos\01forms\01forms\obj\Debug\01forms.exe
+C:\Users\Jasper\source\repos\01forms\01forms\obj\Debug\01forms.pdb
