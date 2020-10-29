@@ -1,0 +1,10 @@
+C:\Users\Jasper\source\repos\14 Picture\14 Picture\bin\Debug\14 Picture.exe.config
+C:\Users\Jasper\source\repos\14 Picture\14 Picture\bin\Debug\14 Picture.exe
+C:\Users\Jasper\source\repos\14 Picture\14 Picture\bin\Debug\14 Picture.pdb
+C:\Users\Jasper\source\repos\14 Picture\14 Picture\obj\Debug\14 Picture.csprojAssemblyReference.cache
+C:\Users\Jasper\source\repos\14 Picture\14 Picture\obj\Debug\_14_Picture.Form1.resources
+C:\Users\Jasper\source\repos\14 Picture\14 Picture\obj\Debug\_14_Picture.Properties.Resources.resources
+C:\Users\Jasper\source\repos\14 Picture\14 Picture\obj\Debug\14 Picture.csproj.GenerateResource.cache
+C:\Users\Jasper\source\repos\14 Picture\14 Picture\obj\Debug\14 Picture.csproj.CoreCompileInputs.cache
+C:\Users\Jasper\source\repos\14 Picture\14 Picture\obj\Debug\14 Picture.exe
+C:\Users\Jasper\source\repos\14 Picture\14 Picture\obj\Debug\14 Picture.pdb
