@@ -1,0 +1,10 @@
+C:\Users\Jasper\source\repos\08ArrayLotto\08ArrayLotto\bin\Debug\08ArrayLotto.exe.config
+C:\Users\Jasper\source\repos\08ArrayLotto\08ArrayLotto\bin\Debug\08ArrayLotto.exe
+C:\Users\Jasper\source\repos\08ArrayLotto\08ArrayLotto\bin\Debug\08ArrayLotto.pdb
+C:\Users\Jasper\source\repos\08ArrayLotto\08ArrayLotto\obj\Debug\08ArrayLotto.csprojAssemblyReference.cache
+C:\Users\Jasper\source\repos\08ArrayLotto\08ArrayLotto\obj\Debug\_08ArrayLotto.Form1.resources
+C:\Users\Jasper\source\repos\08ArrayLotto\08ArrayLotto\obj\Debug\_08ArrayLotto.Properties.Resources.resources
+C:\Users\Jasper\source\repos\08ArrayLotto\08ArrayLotto\obj\Debug\08ArrayLotto.csproj.GenerateResource.cache
+C:\Users\Jasper\source\repos\08ArrayLotto\08ArrayLotto\obj\Debug\08ArrayLotto.csproj.CoreCompileInputs.cache
+C:\Users\Jasper\source\repos\08ArrayLotto\08ArrayLotto\obj\Debug\08ArrayLotto.exe
+C:\Users\Jasper\source\repos\08ArrayLotto\08ArrayLotto\obj\Debug\08ArrayLotto.pdb
