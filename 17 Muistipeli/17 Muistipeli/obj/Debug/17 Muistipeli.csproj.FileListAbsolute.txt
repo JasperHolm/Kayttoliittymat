@@ -1,0 +1,10 @@
+C:\Users\Jasper\source\repos\17 Muistipeli\17 Muistipeli\bin\Debug\17 Muistipeli.exe.config
+C:\Users\Jasper\source\repos\17 Muistipeli\17 Muistipeli\bin\Debug\17 Muistipeli.exe
+C:\Users\Jasper\source\repos\17 Muistipeli\17 Muistipeli\bin\Debug\17 Muistipeli.pdb
+C:\Users\Jasper\source\repos\17 Muistipeli\17 Muistipeli\obj\Debug\17 Muistipeli.csprojAssemblyReference.cache
+C:\Users\Jasper\source\repos\17 Muistipeli\17 Muistipeli\obj\Debug\_17_Muistipeli.Form1.resources
+C:\Users\Jasper\source\repos\17 Muistipeli\17 Muistipeli\obj\Debug\_17_Muistipeli.Properties.Resources.resources
+C:\Users\Jasper\source\repos\17 Muistipeli\17 Muistipeli\obj\Debug\17 Muistipeli.csproj.GenerateResource.cache
+C:\Users\Jasper\source\repos\17 Muistipeli\17 Muistipeli\obj\Debug\17 Muistipeli.csproj.CoreCompileInputs.cache
+C:\Users\Jasper\source\repos\17 Muistipeli\17 Muistipeli\obj\Debug\17 Muistipeli.exe
+C:\Users\Jasper\source\repos\17 Muistipeli\17 Muistipeli\obj\Debug\17 Muistipeli.pdb
