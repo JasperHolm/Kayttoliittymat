@@ -1,0 +1,10 @@
+C:\Users\Jasper\source\repos\05For\05For\bin\Debug\05For.exe.config
+C:\Users\Jasper\source\repos\05For\05For\bin\Debug\05For.exe
+C:\Users\Jasper\source\repos\05For\05For\bin\Debug\05For.pdb
+C:\Users\Jasper\source\repos\05For\05For\obj\Debug\05For.csprojAssemblyReference.cache
+C:\Users\Jasper\source\repos\05For\05For\obj\Debug\_05For.Form1.resources
+C:\Users\Jasper\source\repos\05For\05For\obj\Debug\_05For.Properties.Resources.resources
+C:\Users\Jasper\source\repos\05For\05For\obj\Debug\05For.csproj.GenerateResource.cache
+C:\Users\Jasper\source\repos\05For\05For\obj\Debug\05For.csproj.CoreCompileInputs.cache
+C:\Users\Jasper\source\repos\05For\05For\obj\Debug\05For.exe
+C:\Users\Jasper\source\repos\05For\05For\obj\Debug\05For.pdb
